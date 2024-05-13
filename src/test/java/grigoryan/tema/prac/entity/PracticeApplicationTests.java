@@ -1,4 +1,4 @@
-package kuzina.emma.prac.entity;
+package grigoryan.tema.prac.entity;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,4 +1,4 @@
-package kuzina.emma.prac.entity;
+package grigoryan.tema.prac.entity;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

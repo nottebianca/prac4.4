@@ -1,4 +1,4 @@
-package kuzina.emma.prac.entity;
+package grigoryan.tema.prac.entity;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;
