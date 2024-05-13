@@ -1,4 +1,4 @@
-package grigoryan.tema.prac.entity;
+package kuzina.emma.practica4.entity;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.GetMapping;
